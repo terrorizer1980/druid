@@ -108,7 +108,7 @@
         <hadoop.compile.version>2.8.5</hadoop.compile.version>
         <mockito.version>3.8.0</mockito.version>
         <powermock.version>2.0.9</powermock.version>
-        <aws.sdk.version>1.11.884</aws.sdk.version>
+        <aws.sdk.version>1.12.432</aws.sdk.version>
         <caffeine.version>2.8.0</caffeine.version>
         <jacoco.version>0.8.7</jacoco.version>
         <!-- When upgrading ZK, edit docs and integration tests as well (integration-tests/docker-base/setup.sh) -->
@@ -1907,7 +1907,7 @@
                                 <license implementation="org.apache.rat.analysis.license.SimplePatternBasedLicense">
                                     <licenseFamilyCategory>MIT</licenseFamilyCategory>
                                     <licenseFamilyName>MIT JQuery</licenseFamilyName>
-                                    <notes />
+                                    <notes/>
                                     <patterns>
                                         <pattern>Copyright 2005, 2014 jQuery Foundation, Inc. and other contributors</pattern>
                                         <pattern>Copyright 2012 jQuery Foundation and other contributors; Licensed MIT</pattern>
@@ -1917,7 +1917,7 @@
                                 <license implementation="org.apache.rat.analysis.license.SimplePatternBasedLicense">
                                     <licenseFamilyCategory>Underscore</licenseFamilyCategory>
                                     <licenseFamilyName>Underscore</licenseFamilyName>
-                                    <notes />
+                                    <notes/>
                                     <patterns>
                                         <pattern>Underscore is freely distributable under the MIT license</pattern>
                                     </patterns>
@@ -1925,7 +1925,7 @@
                                 <license implementation="org.apache.rat.analysis.license.SimplePatternBasedLicense">
                                     <licenseFamilyCategory>Allan Jardine</licenseFamilyCategory>
                                     <licenseFamilyName>Allan Jardine</licenseFamilyName>
-                                    <notes />
+                                    <notes/>
                                     <patterns>
                                         <pattern>Copyright 2009 Allan Jardine. All Rights Reserved</pattern>
                                     </patterns>
@@ -1933,7 +1933,7 @@
                                 <license implementation="org.apache.rat.analysis.license.SimplePatternBasedLicense">
                                     <licenseFamilyCategory>Allan Jardine</licenseFamilyCategory>
                                     <licenseFamilyName>Allan Jardine</licenseFamilyName>
-                                    <notes />
+                                    <notes/>
                                     <patterns>
                                         <pattern>Copyright 2009 Allan Jardine. All Rights Reserved</pattern>
                                         <pattern>Copyright 2008-2011 Allan Jardine</pattern>
